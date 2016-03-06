@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Hot Movies</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+
+    <string name="pref_title_recent_released">View Recently Released Only</string>
+    <string name="pref_description_recent_released">Show movies that are released 2 weeks
+        back or are going to be released in next week
+    </string>
+
+    <string name="action_sort_popularity">Sort By Popularity</string>
+    <string name="action_sort_Rating">Sort By Rating</string>
+    <string name="pref_sort_popularity_value">popularity.dsc</string>
+    <string name="pref_sort_rating_value">vote_average.desc</string>
+    <string name="title_activity_movie_detail">MovieDetail</string>
+    <string name="action_settings">Settings</string>
+    <string name="movie_vote_avg">Vote Avg:</string>
+    <string name="movie_release_date">Released:</string>
+    <string name="movie_overview">Overview: </string>
+
+</resources>
